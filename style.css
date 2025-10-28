@@ -109,7 +109,7 @@ a {
 
 /* Hover animation */
 a:hover {
-    background: #0078ff;
+    background: lightcoral;
     color: #fff;
     transform: scale(1.05) translateY(-5px) rotateX(5deg);
     box-shadow: 0 12px 30px rgba(0, 120, 255, 0.35);
@@ -131,3 +131,4 @@ a i {
 a:hover i {
     transform: rotate(15deg) scale(1.2);
 }
+
